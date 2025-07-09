@@ -1,6 +1,5 @@
-# Designing_Machine_Learning_Systems 中文翻译
+# Designing_Machine_Learning_Systems 机器学习系统设计—中文翻译
 
-# 机器学习系统设计（Designing Machine Learning Systems）
 
 > 作者：Chip Huyen  
 > 出版社：O'Reilly Media  
