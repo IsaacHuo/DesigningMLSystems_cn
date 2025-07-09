@@ -1,4 +1,4 @@
-# Designing_Machine_Learning_Systems 机器学习系统设计—中文翻译
+### Designing_Machine_Learning_Systems 中文翻译
 
 
 > 作者：Chip Huyen  
@@ -8,13 +8,13 @@
 
 ---
 
-## 简介
+### 简介
 
 《Designing Machine Learning Systems》是一本系统讲解如何从 **产品角度** 设计、开发、部署和维护机器学习系统的实用指南。不同于强调算法本身的教材，本书更聚焦于真实世界中的工程挑战和产品落地。
 
 ---
 
-## 本书结构
+### 本书结构
 
 | 章节 | 内容概览 |
 |------|-----------|
